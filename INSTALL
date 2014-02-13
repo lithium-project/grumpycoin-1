@@ -1,0 +1,9 @@
+Building GrumpyCoin
+
+See doc/readme-qt.rst for instructions on building grumpycoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of GrumpyCoin.
+
+See doc/build-*.txt for instructions on building grumpycoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of GrumpyCoin.
