@@ -1,4 +1,4 @@
-GrumpyCoin (GRUM)
+GrumpyCoin (GRUMP)
 ===========
 
 GRUMPYCOIN
